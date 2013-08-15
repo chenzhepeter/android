@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GenuineAce</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world"><b>For Bar code or QR code:</b></string>
+    <string name="history_button"><b>HISTORY</b></string>
+    <string name="profile_button"><b>PROFILE</b></string>
+    <string name="help_button"><b>HELP</b></string>
+    <string name="more_qr"><b>For NFC tag:</b></string>
+    <string name="scan_code">Scan QR Code</string>
+    <string name="scan_bar">Scan BAR Code</string>
+    <string name="move_back">Move back of the phone close to the NFC tag (within 1cm).)</string>
+    <string name="desc">NFC Picture</string>
+
+    <color name="fade_grey">#E8E8E8</color>
+    <color name="white">#FFFFFF</color>
+
+    <string name="scan_but"><b>SCAN</b></string>
+    <string name="title_activity_helpscreen">Helpscreen</string>
+    <string name="title_activity_profscreen">Profscreen</string>
+    <string name="title_activity_qrscan">Qrscan</string>
+
+</resources>
