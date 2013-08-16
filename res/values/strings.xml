@@ -10,7 +10,7 @@
     <string name="more_qr"><b>For NFC tag:</b></string>
     <string name="scan_code">Scan QR Code</string>
     <string name="scan_bar">Scan BAR Code</string>
-    <string name="move_back">Move back of the phone close to the NFC tag (within 1cm).)</string>
+    <string name="move_back">Move back of the phone close to the NFC tag.</string>
     <string name="desc">NFC Picture</string>
 
     <color name="fade_grey">#E8E8E8</color>
